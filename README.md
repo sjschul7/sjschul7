@@ -1,16 +1,29 @@
-## Hi there 👋
+**╭────────────────────────────────────────────────────╮**
+**│                                                     │**
+**│                       Welcome                       │**
+**│                                                     │**
+**╰────────────────────────────────────────────────────╯**
 
-<!--
-**sjschul7/sjschul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[“Having a soft heart in a cruel world is courage, not weakness.”]([url](https://www.goodreads.com/quotes/8867739-having-a-soft-heart-in-a-cruel-world-is-courage))
 
-Here are some ideas to get you started:
+╭─────────────────────────────┈ ↷
+│ ✎┊          About Me
+│╭────────────────────────────────────╯
+││•          Samantha Schultz
+││•          I prefer Sami
+││•          26 years old
+││•          Artist
+││•          Barista
+││•          I'm going to school for: ==Graphic Information Technology==
+││•          After I graduate: ==I want to be a UI designer, or game design==
+││•          Coding enjoyments: ==In the thought chamber now==
+││•          Technical Skills: ==Adobe illustrator, Photoshop==
+││•          Hobbies: ==Drawing, Karaoke, Photography, Games, TV/Movies==
+│╰─────────────────────────────────────────────────── · · · · ✦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**╭────────────────────────────────────────────────────╮**
+**│                                                     │**
+**│                    Media & Stats                    │**
+**│                                                     │**
+**╰────────────────────────────────────────────────────╯**
+
