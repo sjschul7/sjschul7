@@ -11,11 +11,19 @@
 
 <p align="center">╰──────────────────────────────╯</p>
 
+&nbsp;
 
+&nbsp;
 
-<p align="center">[“Having a soft heart in a cruel world is courage, not weakness.”](https://www.goodreads.com/quotes/8867739-having-a-soft-heart-in-a-cruel-world-is-courage)</p>
+&nbsp;
 
+<p align="center">“Having a soft heart in a cruel world is courage, not weakness.”</p>
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ╭─────────────────────────────┈ ↷
 
@@ -45,20 +53,25 @@
 
 │╰─────────────────────────────────────────────────── · · · · ✦
 
+<p align="center">╭──────────────────────────────╮</p>
+
+<p align="center">│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│</p>
 
 
-<p align="center">**╭────────────────────────────────────────────────────╮**</p>
+<p align="center">│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Media & Stats&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│</p>
 
 
-<p align="center">**│                                                     │**</p>
+<p align="center">│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│</p>
 
 
-<p align="center">**│                    Media & Stats                    │**</p>
+<p align="center">╰──────────────────────────────╯</p>
 
+&nbsp;
 
-<p align="center">**│                                                     │**</p>
+││• [add link to codepen here]
 
+││• [add link to facebook here]
 
-<p align="center">**╰────────────────────────────────────────────────────╯**</p>
-
-
+││• [add link to instagram here]
+ 
+││• [add link to tiktok here]
