@@ -41,15 +41,15 @@
 
 ││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barista
 
-││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm going to school for: ==Graphic Information Technology==
+││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm going to school for: <strong>Graphic Information Technology</strong>.
 
-││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After I graduate: ==I want to be a UI designer, or game design==
+││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After I graduate: <strong>I want to be a UI designer, or game design</strong>.
 
-││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding enjoyments: ==In the thought chamber now==
+││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding enjoyments: <strong>In the thought chamber now</strong>.
 
-││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Skills: ==Adobe illustrator, Photoshop==
+││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical Skills: <strong>Adobe illustrator, Photoshop</strong>.
 
-││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hobbies: ==Drawing, Karaoke, Photography, Games, TV/Movies==
+││•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hobbies: <strong>Drawing, Karaoke, Photography, Games, TV/Movies</strong>.
 
 │╰─────────────────────────────────────────────────── · · · · ✦
 
